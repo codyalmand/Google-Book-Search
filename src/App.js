@@ -1,10 +1,11 @@
 import React, { Component } from "react";
-import { BrowserRouter as Router } from "react-router-dom";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 import NavBar from "./components/NavBar";
 import Header from "./components/Header";
 import Wrapper from "./components/Wrapper";
 
 import "./App.css";
+
 
 class App extends Component {
  
@@ -12,9 +13,10 @@ class App extends Component {
     return (
       <Router>
         <div>
-          <NavBar />
           <Header />
+          <NavBar />
           <Wrapper>
+
           </Wrapper>
         </div>
       </Router>

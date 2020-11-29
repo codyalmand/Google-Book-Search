@@ -1,0 +1,13 @@
+
+#headercontainer {
+    text-align: center;
+    font-family: serif;
+    color: white;
+    
+}
+
+#jumbo {
+    background: url("/src/images/bookshelf3.jpg");
+    background-color: rgb(85, 85, 85);
+    margin:-50px;
+}
