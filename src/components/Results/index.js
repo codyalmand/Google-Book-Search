@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import API from "../../utils/API";
+import "./style.css"
 
 class Results extends Component {
 
@@ -30,7 +31,7 @@ class Results extends Component {
         return (
             <div>
                 {!this.props.books.length ? (
-                    <h1 className="text-center">No Results to Display</h1>
+                    <h1 id="noresults" className="text-center">No Results to Display</h1>
                 ) : (
                         <div>
                             {this.props.books.map(result => (
