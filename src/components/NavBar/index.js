@@ -6,8 +6,8 @@ import "./style.css";
 function Navbar() {
     return (
         <nav className="navbar navbar-expand-lg">
-            <div className="container" id="navcontainer">
-                <Link id="title" className="navbar-brand" to="/">Google Book Search</Link>
+            <div className="container" id="navcontainer"><br></br>
+                <h1 id="title">Google Book Search</h1>
                 <ul className="navbar-nav">
                     <button id="searchButton" class="btn btn-dark">
                         <Link

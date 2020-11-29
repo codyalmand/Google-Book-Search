@@ -16,7 +16,7 @@ return (
         placeholder="Search a Book"
         id="search"
       />
-      <button onClick={props.handleFormSubmit} className="btn btn-dark mt-3 mb-5">
+      <button id="searchbutton" onClick={props.handleFormSubmit} className="btn btn-dark mt-3 mb-5">
         Search
         </button>
     </div>
