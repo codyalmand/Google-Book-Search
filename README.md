@@ -6,6 +6,9 @@
 <br>
 
 ![](https://github.com/codyalmand/Google-Book-Search/blob/master/client/src/images/Screen%20Shot%202020-11-29%20at%206.56.42%20PM%20(2).png)
+
+<br>
+
 ![](https://github.com/codyalmand/Google-Book-Search/blob/master/client/src/images/Screen%20Shot%202020-11-29%20at%206.57.19%20PM%20(2).png)
 <br>
 
@@ -17,7 +20,7 @@
 
 React, Express, MongoDB/Atlas
 
-This app allows you to search for your favorite books, or ones on your radar, then create a list of saved books to reference for later.
+This app allows you to search for your favorite books or authors, or ones on your radar, then create a list of saved books to reference for later.
 
 <br>
 
