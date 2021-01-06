@@ -18,9 +18,22 @@
 
 ## Description
 
-React, Express, MongoDB/Atlas
+React, Node, Express, database with MongoDB/Atlas
 
 This app allows you to search for your favorite books or authors, or ones on your radar, then create a list of saved books to reference for later.
+
+<br>
+
+## Installation
+
+* install node.js,
+* (copy) this repo to clipboard,
+* open console command (terminal / bash)
+* "cd" into the desired folder,
+* "git clone (paste from clipboard)",
+* "cd" to the folder of that created repo copy,
+* npm install,
+* npm start
 
 <br>
 
@@ -34,6 +47,6 @@ This app allows you to search for your favorite books or authors, or ones on you
 
 ## My GitHub Repositories: https://github.com/codyalmand
 
-## Fitness-Tracker Repo: https://github.com/codyalmand/Google-Book-Search
+## Google-Book-Search Repo: https://github.com/codyalmand/Google-Book-Search
 
 <br>
