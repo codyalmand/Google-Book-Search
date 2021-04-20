@@ -18,7 +18,7 @@
 
 ## Description
 
-React, Node, Express, database with MongoDB/Atlas
+Tools Utilized: React, Node, Express, Axios, and Concurrently, database with MongoDB/Atlas and deployed with Heroku
 
 This app allows you to search for your favorite books or authors, or ones on your radar, then create a list of saved books to reference for later.
 
